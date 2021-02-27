@@ -4,6 +4,7 @@
  var static_url = site_url + 'static/';
  var min_width = 100;
  var min_height = 100;
+
  function bookmarklet(msg) {
   // load CSS
  var css = jQuery('<link>');
